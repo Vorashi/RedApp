@@ -1,0 +1,24 @@
+{
+  "name": "redapp",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "start",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vorashi/RedApp.git"
+  },
+  "author": "Vorash",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vorashi/RedApp/issues"
+  },
+  "homepage": "https://github.com/Vorashi/RedApp#readme",
+  "description": "",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2"
+  }
+}
